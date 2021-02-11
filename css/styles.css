@@ -3927,7 +3927,7 @@ input[type=button].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #1abc9c;
+  background-color: #454847;
 }
 
 .nav-fill > .nav-link,
@@ -4607,7 +4607,7 @@ input[type=button].btn-block {
 .page-item.active .page-link {
   z-index: 3;
   color: #fff;
-  background-color: #1abc9c;
+  background-color: #3f4342;
   border-color: #1abc9c;
 }
 .page-item.disabled .page-link {
@@ -10108,12 +10108,12 @@ h3 {
     margin-top: 0;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-    color: #fff;
-    background: #1abc9c;
+    color: #1abc9c;
+    /* background: #1abc9c; */
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-    color: #fff;
-    background: #1abc9c;
+    color: #1abc9c;
+    /* background: #1abc9c; */
   }
 
   #mainNav.navbar-shrink {
